@@ -15,7 +15,7 @@ Las actividades del TP2 se encuentran en el directorio 'files' de este repositor
 
 ## ✅ Resolución
 
-Este repositorio contiene la **resolución completa** del TP2, mostrando la aplicación práctica de los conceptos de CSS en el siguiente link:  [PáginaWeb-CSS](https://valenisgroo.github.io/PaginaWeb-CSS/) 
+Este repositorio contiene la **resolución completa** del TP2, mostrando la aplicación práctica de los conceptos de CSS en el siguiente link: https://valenisgroo.github.io/DsW-TP2-css-UTN/
 
 ---
 
